@@ -1,4 +1,4 @@
-package practice.leetcodeEasy.array;
+package practice.leetcodeEasy.arr10ay;
 
 import java.util.ArrayList;
 import java.util.List;

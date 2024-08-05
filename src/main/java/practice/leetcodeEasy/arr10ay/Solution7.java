@@ -1,4 +1,4 @@
-package practice.leetcodeEasy.array;
+package practice.leetcodeEasy.arr10ay;
 
 //1512 - number-of-good-pair
 public class Solution7 {

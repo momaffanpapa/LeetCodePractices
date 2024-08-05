@@ -1,4 +1,4 @@
-package practice.leetcodeEasy.array;
+package practice.leetcodeEasy.arr10ay;
 
 class Solution1 {
     public static int addDigits(int num) {
