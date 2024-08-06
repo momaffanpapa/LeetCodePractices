@@ -3,6 +3,7 @@ package practice.leetcodeEasy.arr10ay;
 import java.util.HashMap;
 import java.util.Map;
 
+//1832- check-if-the-sentence-is-pangram
 public class Solution10 {
 
     public static boolean checkIfPangram(String sentence) {
