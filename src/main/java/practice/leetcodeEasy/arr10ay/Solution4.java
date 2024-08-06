@@ -1,6 +1,5 @@
-package practice.leetcodeEasy.array;
+package practice.leetcodeEasy.arr10ay;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class Solution4 {

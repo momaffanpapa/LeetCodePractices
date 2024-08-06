@@ -1,4 +1,4 @@
-package practice.leetcodeEasy.array;
+package practice.leetcodeEasy.arr10ay;
 
 public class Solution5 {
 
